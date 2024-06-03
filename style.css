@@ -20,6 +20,7 @@ body {
     flex-direction: column;
     text-align: center;
     text-transform: uppercase;
+    height: full;
 }
 
 .pricing-plan {
